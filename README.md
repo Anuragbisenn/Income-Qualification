@@ -38,6 +38,4 @@ Predict the accuracy using random forest classifier.
 
 Check the accuracy using random forest with cross validation.
 
-# Find the datasets here.
-
-https://github.com/Simplilearn-Edu/Machine-Learning--Projects
+*******************************************************************************************************************************
